@@ -1,0 +1,9 @@
+# Netlify configuration
+
+[build]
+  functions = "functions"
+  publish = "frontend"
+
+[dev]
+  framework = "#custom"
+
